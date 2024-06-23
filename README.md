@@ -23,10 +23,3 @@
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abelAX/abelAX/output/snake.svg" alt="Snake animation" />
-
-###
