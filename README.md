@@ -10,6 +10,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+
 </div>
+
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abelAX&show_icons=true&theme=transparent)-->
+
+ <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelAX&hide_progress=true)-->
+
 
 
